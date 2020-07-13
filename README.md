@@ -1,4 +1,4 @@
-<img src="fav.jpeg"> 😇
+![](https://github.com/vipul43/vipul43/tree/master/fav.jpeg?raw=true) 😇
 
 - 🔭 [learnmorehere](https://vipul43.github.io/my_portfolio)
 - 🌱 [studyinghere](https://iitpkd.ac.in)
