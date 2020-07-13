@@ -1,4 +1,4 @@
-![profile](vipul43/vipul43/blob/master/fav.jpeg) 😇
+![Alt Text](https://media.giphy.com/media/I7kMRW6mj4YtW/giphy.gif)
 
 - 🔭 [learnmorehere](https://vipul43.github.io/my_portfolio)
 - 🌱 [studyinghere](https://iitpkd.ac.in)
