@@ -6,3 +6,25 @@
 - 🤔 [scratchhere](https://vipul43.github.io/draw)
 - 💬 [messageme?](https://api.whatsapp.com/send?phone=917032708714&text=Heyy%20I%20Just%20saw%20your%20profile%20on%20gihub.%20Want%20to%20chat😀😀)
 - 📫 [reachme](mailto:saifunny43@gmail.com)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/python/python.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/html/html.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/markdown/markdown.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/django/django.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/react/react.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/firefox/firefox.png"></code>
+
+[![Vipul's github stats](https://github-readme-stats.vercel.app/api?username=vipul43&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/vipul43/image_captioning">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul43&repo=image_captioning&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
