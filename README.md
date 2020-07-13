@@ -4,8 +4,14 @@
 - 🌱 [studyinghere](https://iitpkd.ac.in)
 - 👯 [collaboratehere](https://github.com/vipul43/image_captioning)
 - 🤔 [scratchhere](https://vipul43.github.io/draw)
-- 💬 [messageme?](https://api.whatsapp.com/send?phone=917032708714&text=Heyy%20I%20Just%20saw%20your%20profile%20on%20gihub.%20Want%20to%20chat😀😀)
-- 📫 [reachme](mailto:saifunny43@gmail.com)
+
+**Contacting me:**
+
+<a href="https://api.whatsapp.com/send?phone=917032708714&text=Heyy%20I%20Just%20saw%20your%20profile%20on%20gihub.%20Want%20to%20chat😀😀"><img align="left" width="21px" src="https://raw.githubusercontent.com/vipul43/vipul43/master/assets/whatsapp-fill.svg" />messageme?</a>
+
+<a href="mailto:saifunny43@gmail.com"><img align="left" width="21px" src="https://raw.githubusercontent.com/vipul43/vipul43/master/assets/mail-send-fill.svg" />reachme?</a>
+
+<a href="https://join.skype.com/invite/WkhNndDOGXnQ"><img align="left" width="21px" src="https://raw.githubusercontent.com/vipul43/vipul43/master/assets/skype-fill.svg" />skypeme?</a>
 
 **Languages and Tools:**  
 
@@ -27,4 +33,8 @@
 
 <a href="https://github.com/vipul43/image_captioning">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul43&repo=image_captioning&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/vipul43/my_portfolio">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul43&repo=my_portfolio&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
