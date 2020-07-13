@@ -29,7 +29,11 @@
 <code><img height="20" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/master/topics/firefox/firefox.png"></code>
 
+**Stats:**
+
 ![Vipul's github stats](https://github-readme-stats.vercel.app/api?username=vipul43&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+**Currently working repos:**
 
 <a href="https://github.com/vipul43/image_captioning">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul43&repo=image_captioning&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
