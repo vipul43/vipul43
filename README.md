@@ -1,4 +1,4 @@
-- 😇 <img src="files/fav.jpeg">
+- 😇 <img src="fav.jpeg">
 - 🔭 <a target="_blank" href="https://vipul43.github.io/my_portfolio">learnmorehere</a>
 - 🌱 <a target="_blank" href="https://iitpkd.ac.in">studyinghere</a>
 - 👯 <a target="_blank" href="https://github.com/vipul43/image_captioning">collaboratehere</a>
