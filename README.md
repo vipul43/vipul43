@@ -1,4 +1,5 @@
-- <img src="fav.jpeg"> 😇
+<img src="fav.jpeg"> 😇
+
 - 🔭 [learnmorehere](https://vipul43.github.io/my_portfolio)
 - 🌱 [studyinghere](https://iitpkd.ac.in)
 - 👯 [collaboratehere](https://github.com/vipul43/image_captioning)
