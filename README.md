@@ -1,4 +1,4 @@
-![](https://github.com/vipul43/vipul43/tree/master/fav.jpeg?raw=true) 😇
+![profile](fav.jpeg) 😇
 
 - 🔭 [learnmorehere](https://vipul43.github.io/my_portfolio)
 - 🌱 [studyinghere](https://iitpkd.ac.in)
