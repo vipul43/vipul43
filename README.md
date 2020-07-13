@@ -1,5 +1,7 @@
 ![Alt Text](https://media.giphy.com/media/I7kMRW6mj4YtW/giphy.gif)
 
+**Typically me:**
+
 - 🔭 [learnmorehere](https://vipul43.github.io/my_portfolio)
 - 🌱 [studyinghere](https://iitpkd.ac.in)
 - 👯 [collaboratehere](https://github.com/vipul43/image_captioning)
