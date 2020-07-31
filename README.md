@@ -4,7 +4,7 @@
 
 - 🔭 [learnmorehere](https://vipul43.github.io/my_portfolio)
 - 🌱 [studyinghere](https://iitpkd.ac.in)
-- 👯 [collaboratehere](https://github.com/vipul43/image_captioning)
+- 👯 [collaboratehere](https://github.com/vipul43/algorithms)
 - 🤔 [scratchhere](https://vipul43.github.io/draw)
 
 **Contacting me:**
