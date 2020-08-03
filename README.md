@@ -38,7 +38,7 @@
 **Currently working repos:**
 
 <a href="https://github.com/vipul43/image_captioning">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul43&repo=image_captioning&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul43&repo=algorithms&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/vipul43/my_portfolio">
