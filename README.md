@@ -38,9 +38,9 @@
 **Currently working projects:**
 
 <a href="https://github.com/vipul43/project_MASK">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul43&repo=algorithms&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul43&repo=project_MASK&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/vipul43/project_Blip">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul43&repo=my_portfolio&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul43&repo=project_Blip&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
