@@ -2,10 +2,10 @@
 
 **Typically me:**
 
-- 🔭 [More about me?](https://vipul43.github.io/my_portfolio)
-- 🌱 [Where I study?](https://iitpkd.ac.in)
-- 👯 [Help me?](https://github.com/vipul43/algorithms)
-- 🤔 [Scratch?](https://vipul43.github.io/draw)
+- 🔭 [More about me](https://vipul43.github.io/my_portfolio)
+- 🌱 [I study here](https://iitpkd.ac.in)
+- 👯 [Need help here](https://github.com/vipul43/algorithms)
+- 🤔 [Use this](https://vipul43.github.io/draw)
 
 **Contacting me:**
 
